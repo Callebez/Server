@@ -3801,9 +3801,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_bricks": "2025-12-30 21:17:06 -0300"
+      "diamond_boots": "2025-12-30 20:06:06 -0300"
     },
     "done": true
   },
@@ -3819,51 +3819,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-12-30 21:17:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2025-12-30 20:56:28 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-12-30 20:56:16 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-12-30 20:38:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-12-30 21:17:06 -0300"
     },
     "done": true
   },
@@ -3873,39 +3831,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-12-30 21:17:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2025-12-30 20:06:06 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-12-30 20:38:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/field_masoned_banner_pattern": {
-    "criteria": {
-      "has_bricks": "2025-12-30 21:17:06 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
     },
     "done": true
   },
@@ -3933,42 +3861,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
-    "criteria": {
-      "has_cyan_terracotta": "2025-12-30 20:57:04 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-12-30 21:17:06 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-12-30 20:38:56 -0300"
@@ -3981,63 +3873,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-12-30 20:38:56 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-12-30 21:17:06 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-12-30 20:38:56 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate_slab": "2025-12-30 21:44:19 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
     },
     "done": true
   },
@@ -4059,9 +3903,183 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-12-30 20:56:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-12-30 20:56:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-12-30 20:57:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-12-30 21:17:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-12-30 21:17:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-30 21:17:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-30 21:17:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/field_masoned_banner_pattern": {
+    "criteria": {
+      "has_bricks": "2025-12-30 21:17:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-12-30 21:17:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-12-30 21:17:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-12-30 21:44:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-12-30 22:13:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-12-30 22:32:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-12-31 11:15:53 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-12-31 12:39:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks": {
+    "criteria": {
+      "has_tuff_brick_slab": "2025-12-31 12:20:08 -0300"
     },
     "done": true
   },
