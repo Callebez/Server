@@ -1,33 +1,179 @@
-[17:21:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[17:21:49] [ServerMain/INFO]: Loaded 1470 recipes
-[17:21:49] [ServerMain/INFO]: Loaded 1584 advancements
-[17:21:50] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[17:21:50] [Server thread/INFO]: Loading properties
-[17:21:50] [Server thread/INFO]: Default game type: SURVIVAL
-[17:21:50] [Server thread/INFO]: Generating keypair
-[17:21:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:21:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:21:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:21:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:21:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:21:50] [Server thread/INFO]: Preparing level "world"
-[17:21:51] [Server thread/INFO]: Loading 0 persistent chunks...
-[17:21:51] [Server thread/INFO]: Preparing spawn area: 100%
-[17:21:51] [Server thread/INFO]: Time elapsed: 95 ms
-[17:21:51] [Server thread/INFO]: Done (0.883s)! For help, type "help"
-[17:22:33] [Server thread/INFO]: Callebez[/100.91.144.40:50476] logged in with entity id 243 at (62.56151993245289, 64.0, -91.36312957559205)
-[17:22:33] [Server thread/INFO]: Callebez joined the game
-[18:14:35] [Server thread/INFO]: Callebez has made the advancement [Wax On]
-[19:48:38] [Server thread/INFO]: Callebez lost connection: Disconnected
-[19:48:38] [Server thread/INFO]: Callebez left the game
-[19:48:45] [Server thread/INFO]: Stopping the server
-[19:48:45] [Server thread/INFO]: Stopping server
-[19:48:45] [Server thread/INFO]: Saving players
-[19:48:45] [Server thread/INFO]: Saving worlds
-[19:48:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:48:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:48:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:48:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:48:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:48:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:48:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:54:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[13:54:51] [ServerMain/INFO]: Loaded 1470 recipes
+[13:54:51] [ServerMain/INFO]: Loaded 1584 advancements
+[13:54:52] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[13:54:52] [Server thread/INFO]: Loading properties
+[13:54:52] [Server thread/INFO]: Default game type: SURVIVAL
+[13:54:52] [Server thread/INFO]: Generating keypair
+[13:54:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:54:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:54:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:54:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:54:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:54:52] [Server thread/INFO]: Preparing level "world"
+[13:54:53] [Server thread/INFO]: Loading 0 persistent chunks...
+[13:54:53] [Server thread/INFO]: Preparing spawn area: 100%
+[13:54:53] [Server thread/INFO]: Time elapsed: 66 ms
+[13:54:53] [Server thread/INFO]: Done (0.694s)! For help, type "help"
+[13:55:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:56:01] [Server thread/INFO]: Callebez[/100.91.144.40:52116] logged in with entity id 320 at (66.13029152577495, 64.0, -85.66799492982365)
+[13:56:01] [Server thread/INFO]: Callebez joined the game
+[13:56:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[14:12:12] [Server thread/INFO]: Callebez was shot by Skeleton
+[16:41:39] [Server thread/INFO]: Callebez lost connection: Disconnected
+[16:41:39] [Server thread/INFO]: Callebez left the game
+[16:42:39] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[18:13:13] [Server thread/INFO]: Callebez[/100.91.144.40:60922] logged in with entity id 37736 at (30.942301979983487, 63.0, -93.1725541675165)
+[18:13:13] [Server thread/INFO]: Callebez joined the game
+[19:03:35] [Server thread/INFO]: saci[/100.89.15.89:54026] logged in with entity id 55278 at (60.50914680424058, 64.0, -86.12290323869757)
+[19:03:35] [Server thread/INFO]: saci joined the game
+[19:13:29] [Server thread/INFO]: Malduke[/100.73.129.76:64063] logged in with entity id 57413 at (112.0163443756536, 71.5, -75.90979972419521)
+[19:13:29] [Server thread/INFO]: Malduke joined the game
+[19:22:08] [Server thread/INFO]: saci was shot by Skeleton
+[19:28:06] [Server thread/INFO]: Socialviny[/100.110.150.119:42732] logged in with entity id 62028 at (46.94300121930576, 63.0, -155.11386765371046)
+[19:28:06] [Server thread/INFO]: Socialviny joined the game
+[19:28:11] [Server thread/INFO]: Malduke lost connection: Disconnected
+[19:28:11] [Server thread/INFO]: Malduke left the game
+[19:28:20] [Server thread/INFO]: Malduke[/100.73.129.76:52357] logged in with entity id 62118 at (95.7731540770288, 61.464580766380564, -77.88584686593114)
+[19:28:20] [Server thread/INFO]: Malduke joined the game
+[19:33:31] [Server thread/INFO]: Malduke lost connection: Disconnected
+[19:33:31] [Server thread/INFO]: Malduke left the game
+[19:41:49] [Server thread/INFO]: [Not Secure] <Socialviny> XYZ: 29.688 / 62.11076/ -116.668
+[19:43:50] [Server thread/INFO]: [Not Secure] <saci> 739.717/ 71.0000 /287.547
+[19:44:47] [Server thread/INFO]: saci was shot by Skeleton
+[19:48:08] [Server thread/INFO]: Socialviny was killed by Guardian using magic
+[19:53:56] [Server thread/WARN]: Oak Boat (vehicle of Socialviny) moved wrongly! 0.43075678822486907
+[19:53:58] [Server thread/WARN]: Oak Boat (vehicle of Socialviny) moved wrongly! 0.29104129501899934
+[19:55:17] [Server thread/INFO]: Socialviny has made the advancement [Best Friends Forever]
+[20:00:31] [Server thread/INFO]: Socialviny has made the advancement [Ice Bucket Challenge]
+[20:01:27] [Server thread/INFO]: Socialviny has made the advancement [The Parrots and the Bats]
+[20:02:53] [Server thread/WARN]: Mismatch in destroy block pos: is{x=746, y=59, z=282} is{x=746, y=57, z=283}
+[20:02:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=748, y=66, z=278} is{x=748, y=65, z=277}
+[20:02:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=748, y=66, z=278} is{x=748, y=65, z=277}
+[20:04:25] [Server thread/INFO]: Malduke[/100.73.129.76:59374] logged in with entity id 78031 at (50.368692886396744, 64.0, -89.18943933904428)
+[20:04:25] [Server thread/INFO]: Malduke joined the game
+[20:15:46] [Server thread/INFO]: Socialviny was blown up by Creeper
+[20:21:48] [Server thread/INFO]: saci was slain by Spider
+[20:22:51] [Server thread/INFO]: Socialviny was killed by Guardian using magic
+[20:26:19] [Server thread/INFO]: Callebez lost connection: Disconnected
+[20:26:19] [Server thread/INFO]: Callebez left the game
+[20:27:49] [Server thread/INFO]: saci lost connection: Disconnected
+[20:27:49] [Server thread/INFO]: saci left the game
+[20:28:20] [Server thread/INFO]: saci[/100.89.15.89:48470] logged in with entity id 96235 at (500.1935992548884, 67.0, 664.4958751336881)
+[20:28:20] [Server thread/INFO]: saci joined the game
+[20:28:35] [Server thread/INFO]: Callebez[/100.91.144.40:61916] logged in with entity id 96500 at (1342.2657255626439, 67.0, -668.3607053243106)
+[20:28:35] [Server thread/INFO]: Callebez joined the game
+[20:46:18] [Server thread/WARN]: Mismatch in destroy block pos: is{x=42, y=60, z=-83} is{x=39, y=63, z=-93}
+[20:46:41] [Server thread/INFO]: Socialviny was blown up by Creeper
+[20:50:46] [Server thread/INFO]: [Not Secure] <saci> 743/67/846
+[20:51:05] [Server thread/WARN]: Acacia Boat (vehicle of Callebez) moved wrongly! 0.31533550483302974
+[20:51:05] [Server thread/WARN]: Acacia Boat (vehicle of Callebez) moved wrongly! 0.3144103944127892
+[20:51:05] [Server thread/WARN]: Birch Boat (vehicle of Socialviny) moved wrongly! 0.34796900629203265
+[20:51:05] [Server thread/WARN]: Acacia Boat (vehicle of Callebez) moved wrongly! 0.3137645438592642
+[20:51:05] [Server thread/WARN]: Birch Boat (vehicle of Socialviny) moved wrongly! 0.6994849921302944
+[20:51:05] [Server thread/WARN]: Acacia Boat (vehicle of Callebez) moved wrongly! 0.3133475003487547
+[20:51:05] [Server thread/WARN]: Acacia Boat (vehicle of Callebez) moved wrongly! 0.25351811603403007
+[20:51:09] [Server thread/WARN]: Birch Boat (vehicle of Socialviny) moved wrongly! 0.4711240083426702
+[21:00:00] [Server thread/INFO]: saci was shot by Skeleton
+[21:01:08] [Server thread/INFO]: Malduke was impaled by Drowned
+[21:05:14] [Server thread/INFO]: Socialviny lost connection: Disconnected
+[21:05:14] [Server thread/INFO]: Socialviny left the game
+[21:05:38] [Server thread/INFO]: Socialviny[/100.110.150.119:42852] logged in with entity id 135873 at (601.3194535224152, 73.84375002384186, 1010.6982421875)
+[21:05:38] [Server thread/INFO]: Socialviny joined the game
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.069835459619924,0.0,9.348087284226494
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.127669485112904,0.0,9.721003098658684
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.1658408904016255,0.0,10.094142214232079
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.184661353083186,0.0,10.46682796848745
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.184605110190262,0.0,10.838455377365335
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.166889317729613,0.0,11.208807940960469
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.13330746283691,0.0,11.578026681536358
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.086099551288214,0.0,11.946538665766184
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.0278598017116565,0.0,12.314967018676725
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.961467747903839,0.0,12.684031369353534
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.890030138745715,0.0,13.054444554184556
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.8168338532903476,0.0,13.426813160327356
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.745285310467125,0.0,13.801540724438155
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.6788561436394502,0.0,14.178743699796314
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.6203198858535757,0.0,14.558206713099707
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.571844073304703,0.0,14.939501179213494
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.5350618752718788,0.0,15.322075324162142
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.5111517094849205,0.0,15.705320248779344
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.5009132353340533,0.0,16.088615967496253
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.5048306250168935,0.0,16.471363779617832
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.5231270283883873,0.0,16.853008288167075
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.5558139601284324,0.0,17.233050507595635
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.6027389277265343,0.0,17.61105227719827
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.663613849060198,0.0,17.986642170337063
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.7380504322470642,0.0,18.359512401036227
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.825587724114257,0.0,18.729414598231642
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 3.9257063500725167,0.0,19.09615963475244
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.037850635777886,0.0,19.459609888714567
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.161441375245204,0.0,19.819674797069865
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.295889983869699,0.0,20.176303564370755
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.440604491508111,0.0,20.529482068902553
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.594997732082049,0.0,20.879227206004543
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.7584943416915735,0.0,21.2255811600337
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 4.930533732095796,0.0,21.568608119228657
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 5.1105725805806514,0.0,21.90839100243784
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 5.298089838730903,0.0,22.24502579557452
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 5.4925880812782,0.0,22.57861860019466
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 5.693591663463906,0.0,22.90928528503423
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 5.900647919963262,0.0,23.237148583315275
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 6.113331026709034,0.0,23.56233282419089
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 6.331236701611147,0.0,23.88496663044907
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 6.553986053664005,0.0,24.205177696563396
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 6.781223218925845,0.0,24.5230930994544
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 7.012616065983934,0.0,24.838836964882375
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 7.247851105101688,0.0,25.152533487613937
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 7.486637409426407,0.0,25.46430188047816
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 7.728701611298959,0.0,25.77425955663216
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 7.973791855341233,0.0,26.082517185391225
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 8.22167007605583,0.0,26.38918464535027
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 8.472119082697361,0.0,26.694363306422247
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 8.724934908075682,0.0,26.998152159443862
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 8.979931102075,0.0,27.300642829362914
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 9.236931421813154,0.0,27.601925607327757
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 9.495774415617007,0.0,27.902084336996268
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 9.75631194762667,0.0,28.201197070460466
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 10.018908636499532,0.0,28.498850420650797
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 10.284313192628247,0.0,28.794214324085488
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 10.55353317057859,0.0,29.086087340680024
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 10.827715635758864,0.0,29.372923235805956
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 11.108023468142619,0.0,29.652862811072055
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 11.395186852146992,0.0,29.924374013726037
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 11.689604385055532,0.0,30.186227024702703
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 7.9991911865624274,0.0,21.461341018900384
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 8.308363896892047,0.0,21.70127497990825
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 8.624711990466437,0.0,21.929416360285813
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 8.9479578408708,0.0,22.145474925465123
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 9.27775916361145,0.0,22.34932285953687
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 9.613733568209625,0.0,22.5409691235418
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 9.955477570544929,0.0,22.720534699225027
+[21:10:53] [Server thread/WARN]: Birch Boat (vehicle of saci) moved too quickly! 10.302580392180971,0.0,22.888232859773325
+[21:12:42] [Server thread/WARN]: saci moved too quickly! 7.712402566245601,0.0,-6.4783948535401805
+[21:20:45] [Server thread/INFO]: Malduke was impaled by Drowned
+[21:23:11] [Server thread/INFO]: saci was shot by Skeleton
+[21:23:23] [Server thread/INFO]: Socialviny was slain by Zombie
+[21:24:24] [Server thread/INFO]: Socialviny lost connection: Disconnected
+[21:24:24] [Server thread/INFO]: Socialviny left the game
+[21:26:33] [Server thread/INFO]: saci was blown up by Creeper
+[21:27:43] [Server thread/INFO]: saci was slain by Zombie
+[21:28:52] [Server thread/INFO]: saci was slain by Malduke
+[21:30:19] [Server thread/INFO]: saci lost connection: Disconnected
+[21:30:19] [Server thread/INFO]: saci left the game
+[21:30:53] [Server thread/INFO]: Malduke lost connection: Disconnected
+[21:30:53] [Server thread/INFO]: Malduke left the game
+[21:32:28] [Server thread/INFO]: Callebez drowned
+[21:33:03] [Server thread/INFO]: Callebez lost connection: Disconnected
+[21:33:03] [Server thread/INFO]: Callebez left the game
+[21:33:23] [Server thread/INFO]: Stopping the server
+[21:33:23] [Server thread/INFO]: Stopping server
+[21:33:23] [Server thread/INFO]: Saving players
+[21:33:23] [Server thread/INFO]: Saving worlds
+[21:33:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:33:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:33:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:33:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:33:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:33:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:33:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
