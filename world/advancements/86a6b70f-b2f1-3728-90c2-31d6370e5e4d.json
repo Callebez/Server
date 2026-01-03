@@ -22,6 +22,8 @@
       "minecraft:windswept_forest": "2025-12-07 01:32:19 -0300",
       "minecraft:jungle": "2025-12-02 20:20:42 -0300",
       "minecraft:ocean": "2025-12-06 21:01:32 -0300",
+      "minecraft:sunflower_plains": "2026-01-03 17:10:55 -0300",
+      "minecraft:swamp": "2026-01-03 17:16:43 -0300",
       "minecraft:birch_forest": "2025-12-06 21:09:35 -0300",
       "minecraft:windswept_hills": "2025-12-06 21:10:38 -0300",
       "minecraft:savanna": "2025-11-30 16:11:06 -0300",
@@ -4315,21 +4317,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/magenta_harness": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+      "has_nether_brick": "2026-01-03 11:17:00 -0300"
     },
     "done": true
   },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-03 11:18:50 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/yellow_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
     },
     "done": true
   },
@@ -4351,33 +4347,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/red_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/green_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-03 11:18:50 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/purple_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/white_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
     },
     "done": true
   },
@@ -4390,24 +4362,6 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2026-01-03 11:18:50 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/light_gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/gray_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/black_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
     },
     "done": true
   },
@@ -4429,24 +4383,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2026-01-03 11:17:00 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/pink_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/orange_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2026-01-03 11:18:50 -0300"
@@ -4456,12 +4392,6 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2026-01-03 11:18:50 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/light_blue_harness": {
-    "criteria": {
-      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
     },
     "done": true
   },
@@ -4477,6 +4407,90 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-03 11:18:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-01-03 11:18:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/magenta_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/yellow_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/red_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/green_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/purple_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/white_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/gray_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/black_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/pink_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/orange_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/light_blue_harness": {
+    "criteria": {
+      "has_dried_ghast": "2026-01-03 11:25:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/cyan_harness": {
     "criteria": {
       "has_dried_ghast": "2026-01-03 11:25:07 -0300"
@@ -4486,12 +4500,6 @@
   "minecraft:recipes/combat/brown_harness": {
     "criteria": {
       "has_dried_ghast": "2026-01-03 11:25:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-01-03 11:18:50 -0300"
     },
     "done": true
   },
@@ -4507,9 +4515,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/food/suspicious_stew_from_open_eyeblossom": {
     "criteria": {
-      "has_blackstone": "2026-01-03 11:18:50 -0300"
+      "has_open_eyeblossom": "2026-01-03 15:43:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_open_eyeblossom": {
+    "criteria": {
+      "has_open_eyeblossom": "2026-01-03 15:43:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-01-03 15:47:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye_from_closed_eyeblossom": {
+    "criteria": {
+      "has_closed_eyeblossom": "2026-01-03 15:47:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2026-01-03 16:57:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2026-01-03 16:57:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-01-03 18:12:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-01-03 18:12:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-01-03 17:49:27 -0300"
     },
     "done": true
   },
