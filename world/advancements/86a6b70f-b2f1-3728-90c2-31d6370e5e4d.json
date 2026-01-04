@@ -198,10 +198,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-11-30 19:52:56 -0300",
+      "minecraft:zombie_nautilus": "2026-01-04 18:43:26 -0300",
       "minecraft:skeleton": "2025-11-30 18:08:43 -0300",
       "minecraft:phantom": "2025-12-07 01:34:30 -0300",
-      "minecraft:breeze": "2025-12-18 22:15:38 -0300",
       "minecraft:zombified_piglin": "2025-12-21 22:52:17 -0300",
+      "minecraft:breeze": "2025-12-18 22:15:38 -0300",
       "minecraft:enderman": "2025-12-16 21:34:18 -0300",
       "minecraft:spider": "2025-11-30 16:32:11 -0300",
       "minecraft:zombie": "2025-11-30 16:47:51 -0300",
@@ -4551,6 +4552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2026-01-03 17:49:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_blue_orchid": "2026-01-03 18:12:38 -0300"
@@ -4563,9 +4570,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
+  "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
-      "has_prismarine_crystals": "2026-01-03 17:49:27 -0300"
+      "has_red_wool": "2026-01-04 18:15:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2026-01-04 18:15:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2026-01-04 18:15:46 -0300"
     },
     "done": true
   },
