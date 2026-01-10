@@ -1,42 +1,13 @@
-[18:02:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[18:02:30] [ServerMain/INFO]: Loaded 1470 recipes
-[18:02:30] [ServerMain/INFO]: Loaded 1584 advancements
-[18:02:30] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[18:02:30] [Server thread/INFO]: Loading properties
-[18:02:30] [Server thread/INFO]: Default game type: SURVIVAL
-[18:02:30] [Server thread/INFO]: Generating keypair
-[18:02:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:02:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:02:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:02:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:02:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:02:31] [Server thread/INFO]: Preparing level "world"
-[18:02:31] [Server thread/INFO]: Loading 0 persistent chunks...
-[18:02:31] [Server thread/INFO]: Preparing spawn area: 100%
-[18:02:32] [Server thread/INFO]: Time elapsed: 12 ms
-[18:02:32] [Server thread/INFO]: Done (0.799s)! For help, type "help"
-[18:03:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[18:03:40] [Server thread/INFO]: Callebez[/100.91.144.40:52774] logged in with entity id 449 at (67.08857594538891, 59.0, -109.69366314335589)
-[18:03:40] [Server thread/INFO]: Callebez joined the game
-[18:03:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[18:43:26] [Server thread/INFO]: Callebez was slain by Zombie Nautilus
-[18:59:30] [Server thread/INFO]: Callebez lost connection: Disconnected
-[18:59:30] [Server thread/INFO]: Callebez left the game
-[19:00:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:01:57] [Server thread/INFO]: Callebez[/100.91.144.40:53246] logged in with entity id 21805 at (28.8019806051875, 63.0, -112.29252925137457)
-[19:01:57] [Server thread/INFO]: Callebez joined the game
-[19:16:28] [Server thread/INFO]: [Not Secure] <Callebez> 13 x
-[19:16:46] [Server thread/INFO]: [Not Secure] <Callebez> 13x18
-[19:48:55] [Server thread/INFO]: Callebez lost connection: Disconnected
-[19:48:55] [Server thread/INFO]: Callebez left the game
-[19:49:06] [Server thread/INFO]: Stopping the server
-[19:49:06] [Server thread/INFO]: Stopping server
-[19:49:06] [Server thread/INFO]: Saving players
-[19:49:06] [Server thread/INFO]: Saving worlds
-[19:49:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:49:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:49:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:49:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:18:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 493042860ms or 9860857 ticks behind
+[15:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 45627ms or 912 ticks behind
+[15:20:09] [Server thread/INFO]: Stopping the server
+[15:20:09] [Server thread/INFO]: Stopping server
+[15:20:09] [Server thread/INFO]: Saving players
+[15:20:09] [Server thread/INFO]: Saving worlds
+[15:20:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:20:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:20:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:20:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
