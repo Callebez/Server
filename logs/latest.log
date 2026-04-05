@@ -1,28 +1,97 @@
-[19:16:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[19:16:33] [ServerMain/INFO]: Loaded 1470 recipes
-[19:16:33] [ServerMain/INFO]: Loaded 1584 advancements
-[19:16:33] [Server thread/INFO]: Starting minecraft server version 1.21.11
-[19:16:33] [Server thread/INFO]: Loading properties
-[19:16:33] [Server thread/INFO]: Default game type: SURVIVAL
-[19:16:33] [Server thread/INFO]: Generating keypair
-[19:16:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:16:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:16:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:16:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:16:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:16:33] [Server thread/INFO]: Preparing level "world"
-[19:16:34] [Server thread/INFO]: Loading 0 persistent chunks...
-[19:16:34] [Server thread/INFO]: Preparing spawn area: 100%
-[19:16:34] [Server thread/INFO]: Time elapsed: 47 ms
-[19:16:34] [Server thread/INFO]: Done (0.619s)! For help, type "help"
-[19:17:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[19:22:14] [Server thread/INFO]: Stopping server
-[19:22:18] [Server thread/INFO]: Saving players
-[19:22:18] [Server thread/INFO]: Saving worlds
-[19:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:37:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:37:47] [ServerMain/INFO]: Starting upgrade for world "world"
+[19:37:48] [ServerMain/INFO]: Upgrading progress: 2%
+[19:37:48] [ServerMain/INFO]: File system capabilities: FileSystemCapabilities[atomicMove=true, hardLinks=true]
+[19:37:48] [ServerMain/INFO]: Applying file structure changes for world "world"
+[19:37:48] [ServerMain/INFO]: Moving new hardlinked world to top level
+[19:37:48] [ServerMain/INFO]: Start cleanup
+[19:37:48] [ServerMain/INFO]: Moving out old world folder
+[19:37:48] [ServerMain/INFO]: Moving in new world folder
+[19:37:48] [ServerMain/INFO]: Done applying file structure changes for world "world". Cleaning up outdated data...
+[19:37:48] [ServerMain/INFO]: Upgrade done for world "world"
+[19:37:50] [ServerMain/INFO]: Loaded 1515 recipes
+[19:37:50] [ServerMain/INFO]: Loaded 1617 advancements
+[19:37:50] [Server thread/INFO]: Starting minecraft server version 26.1.1
+[19:37:50] [Server thread/INFO]: Loading properties
+[19:37:50] [Server thread/INFO]: Default game type: SURVIVAL
+[19:37:50] [Server thread/INFO]: Generating keypair
+[19:37:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:37:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:37:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:37:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:37:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:37:51] [Server thread/INFO]: Preparing level "world"
+[19:37:51] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:37:51] [Server thread/INFO]: Preparing spawn area: 100%
+[19:37:51] [Server thread/INFO]: Time elapsed: 64 ms
+[19:37:51] [Server thread/INFO]: Done (0.531s)! For help, type "help"
+[19:37:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:37:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:37:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:37:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:37:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:37:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:37:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:38:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:39:43] [Server thread/INFO]: Callebez[/100.91.144.40:52140] logged in with entity id 590 at (93.31084449266663, 64.0, -123.63699236268208)
+[19:39:43] [Server thread/INFO]: Callebez joined the game
+[19:39:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[19:40:09] [Server thread/INFO]: Callebez lost connection: Disconnected
+[19:40:09] [Server thread/INFO]: Callebez left the game
+[19:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9044ms or 180 ticks behind
+[19:41:07] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:41:09] [Server thread/INFO]: Callebez[/100.91.144.40:52154] logged in with entity id 1473 at (69.65418078604505, 64.0, -110.70548069308143)
+[19:41:09] [Server thread/INFO]: Callebez joined the game
+[19:41:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[19:41:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5520ms or 110 ticks behind
+[19:41:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4485ms or 89 ticks behind
+[19:56:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[19:57:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[19:58:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
+[19:58:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3215ms or 64 ticks behind
+[19:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:59:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[19:59:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:00:00] [Server thread/INFO]: Callebez was speared by Zombie
+[20:00:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4198ms or 83 ticks behind
+[20:00:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5857ms or 117 ticks behind
+[20:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:01:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:02:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4899ms or 97 ticks behind
+[20:02:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3442ms or 68 ticks behind
+[20:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[20:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2872ms or 57 ticks behind
+[20:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4187ms or 83 ticks behind
+[20:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4310ms or 86 ticks behind
+[20:03:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3585ms or 71 ticks behind
+[20:04:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3233ms or 64 ticks behind
+[20:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[20:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:08:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:19:01] [Server thread/INFO]: Socialviny[/100.110.150.119:33494] logged in with entity id 12100 at (41.70127682465838, 64.0, -120.06883871090936)
+[20:19:01] [Server thread/INFO]: Socialviny joined the game
+[21:03:01] [Server thread/INFO]: Socialviny has made the advancement [We Need to Go Deeper]
+[21:11:45] [Server thread/WARN]: Acacia Boat (vehicle of Callebez) moved wrongly! 0.3216236727236037
+[21:11:45] [Server thread/WARN]: Acacia Boat (vehicle of Callebez) moved wrongly! 0.3082446834619077
+[21:15:40] [Server thread/INFO]: Socialviny was slain by Iron Golem
+[21:19:28] [Server thread/WARN]: Oak Boat (vehicle of Callebez) moved wrongly! 0.25959350728749087
+[21:33:01] [Server thread/INFO]: [Not Secure] <Callebez> dormi dormi
+[21:33:02] [Server thread/INFO]: [Not Secure] <Callebez> dormir
+[21:33:03] [Server thread/INFO]: [Not Secure] <Callebez> dormi
+[21:48:40] [Server thread/INFO]: [Not Secure] <Callebez> dormir
+[21:48:41] [Server thread/INFO]: [Not Secure] <Callebez> dormir
+[22:28:32] [Server thread/INFO]: [Not Secure] <Callebez> zzzzzzzzzzzzzzzzzz
+[22:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:43:43] [Server thread/INFO]: saci[/100.89.15.89:37974] logged in with entity id 56443 at (231.09688654745753, 14.0, -94.8705910524806)
+[22:43:43] [Server thread/INFO]: saci joined the game
+[22:45:48] [Server thread/INFO]: [Not Secure] <Callebez> dorme vagabundo
+[22:45:56] [Server thread/INFO]: [Not Secure] <Callebez> tá achando que a gente tá no seu tempo
+[22:46:19] [Server thread/INFO]: [Not Secure] <Callebez> zzzzzzzzzzzzzz
+[22:52:16] [Server thread/INFO]: Socialviny lost connection: Disconnected
+[22:52:16] [Server thread/INFO]: Socialviny left the game
+[22:59:31] [Server thread/INFO]: saci was slain by Zombie
+[23:04:12] [Server thread/INFO]: Callebez lost connection: Disconnected
+[23:04:12] [Server thread/INFO]: Callebez left the game
+[23:04:19] [Server thread/INFO]: Stopping server
+[23:04:19] [Server thread/INFO]: Saving players
